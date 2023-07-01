@@ -80,3 +80,7 @@ background-color: rgb(235, 186, 96);
 #buttons-container #equal-btn:hover {
     background-color: #d8cb3a;
 }
+
+footer{
+    color: black;
+}
